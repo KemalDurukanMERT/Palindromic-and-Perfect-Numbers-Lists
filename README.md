@@ -1,0 +1,1 @@
+# Palindromic-and-Perfect-Numbers-Lists
